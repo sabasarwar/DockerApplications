@@ -1,11 +1,12 @@
 
-Set of instruction to build your first docker application and run
+------------- Instruction to build and run your first docker application using PYTHON FLASK ------------
+--------------------------------------------------------------------------------------------------------
 
 >>Create a git repository for your application
 
 >>build Dockerfile
 
->>Go to docker teminal
+>>Go to docker terminal
 
 >>Clone git repository
     >>git clone -b version_name repository_url
